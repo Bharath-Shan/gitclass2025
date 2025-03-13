@@ -1,4 +1,5 @@
-# git_class
+# Example recipe
+This cnts eg recipe.
 
 Material for the 2025 Git class at IPGP
 
