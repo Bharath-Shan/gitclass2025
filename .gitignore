@@ -1,1 +1,2 @@
-.vscode
+# Ignore macOS special files
+.DS_Store
