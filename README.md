@@ -1,6 +1,8 @@
 # Example recipe
 This cnts eg recipe.
 
+Editing on the github directly.
+
 Material for the 2025 Git class at IPGP
 
 * [Exercises](exercises.md)
